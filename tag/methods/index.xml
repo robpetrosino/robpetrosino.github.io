@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methods | Roberto Petrosino</title>
+    <link>https://robpetrosino.github.io/tag/methods/</link>
+      <atom:link href="https://robpetrosino.github.io/tag/methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>methods</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} RP</copyright><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://robpetrosino.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>methods</title>
+      <link>https://robpetrosino.github.io/tag/methods/</link>
+    </image>
+    
+    <item>
+      <title>EEG/MEG response comparability</title>
+      <link>https://robpetrosino.github.io/projects/eeg_meg/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
+      <guid>https://robpetrosino.github.io/projects/eeg_meg/</guid>
+      <description>&lt;p&gt;Over the past few decades, a bulk of psycholinguistic evidence have shown that words decompose in morphemes when they are recognized (&lt;em&gt;morphological decomposition&lt;/em&gt;). A series of magnetoencephalographic (MEG) studies have recently suggested that the brain response to morphological properties originates from a region of the inferior temporal cortex known as `Visual Word Fom Area&#39; (VWFA; Cohen et al. 2000, Cohen et al. 2002) and peaks at about 150 ms post stimulus onset (the M170 component). This area of the brain has been shown to be sensitive to the morpho-orthographic statistical regularities at play during the early stages of the processing of non-affixed (heteronyms: e.g.,  &lt;em&gt;wind&lt;/em&gt;; Solomyak &amp;amp; Marantz 2009), affixed (e.g., bi-morphemic words involving free and bound stems: e.g. &lt;em&gt;taxable, tolerable&lt;/em&gt;; Solomyak &amp;amp; Marantz 2010), and pseudo-affixed (e.g., &lt;em&gt;brother&lt;/em&gt;; Lewis et al. 2011) words, but not to semantic properties, which seem to be indexed by a response in the superior temporal and Silvyan Fissure region peaking at about 350 ms (the M350 component; Pylkännen &amp;amp; Marantz 2003). These studies have developed a novel approach to MEG data analysis, which is based on the correlational data analysis approach pioneered by Hauk et al. (2006) for ERP sensor-space data analysis. While traditional data analysis pipelines group together stimuli sharing some properties in different conditions and compare them to one another, this new approach correlates a given variable (e.g., orthographic transitional probability) of &lt;em&gt;each stimulus&lt;/em&gt; with the brain response arising at a given time window. This kind of technique is particularly beneficial for investigations on morphological phenomena, which often consists of a small number of stimuli, which would be impossible to control for all the necessary variables. Unfortunately, not many morphologists that do not have access to highly expensive MEG machines, as there are, indeed, only a few available worldwide.&lt;/p&gt;
+&lt;p&gt;This project explores the possibility of applying the MEG correlational technique just mentioned to high-density EEG data as a way to provide a reliable and a cost-effective methodology for morphologists interested in conducting electrophysiological research. So far, we have collected high-density EEG data for an identical replication of Lewis et al. (2011). In this study, the M170 response to both transparent (e.g., &lt;em&gt;driver&lt;/em&gt;) and opaque (e.g., &lt;em&gt;brother&lt;/em&gt;) words is shown to correlate with the morpho-orthographic transitional probability between pseudo-stem (&lt;em&gt;broth&lt;/em&gt;) and pseudo-affix (&lt;em&gt;er&lt;/em&gt;), which supports the morpho-orthographic nature of early visual decomposition. We are now in the process of defining the EEG-adapted pipeline and comparing the two sets of results to one another. The hope is to obtain an agreed-on pipeline for correlational data analysis, which may guarantee comparability across types of signal (i.e., MEG vs. EEG) and boost electrophysiological research in morphology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prime masking in the auditory modality</title>
+      <link>https://robpetrosino.github.io/projects/audmskpriming/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0100</pubDate>
+      <guid>https://robpetrosino.github.io/projects/audmskpriming/</guid>
+      <description>&lt;p&gt;Most psycholinguistic research on morphological decomposition has been conducted in the &lt;a href=&#34;https://robpetrosino.github.io/projects/decomposition/&#34;&gt;visual modality&lt;/a&gt;. The main reason for this is that our current behavioral methodologies seem unable to investigate auditory decomposition at the subliminal level of processing. Since auditory stimuli typically unfold over time, the masking procedure of auditory prime stimuli is particularly harder to implement. In recent years, however, the pioneering study by Kouider &amp;amp; Dupoux (2005) has provided an interesting way to implement prime masking in auditory priming. This technique resembles the typical prime-target sound stream, but features the following specifics (see the figure below). All primes are first intensity-attenuated and then time-compressed, so that their original duration was reduced to usually between 35% and 40% of their original duration. Randomly selected, attenuated, and time-compressed primes are also time-reversed to create auditory masks. Each time-compressed prime is preceded by one mask and followed by four other different masks; the target word (at normal speech rate and volume) is imposed over the sequence of masks and prime so that the onset of the target coincided with the offset of the prime.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-schematic-description-of-a-typical-trial-in-kouider--dupoux-2005s-auditory-masked-priming-paradigm-the-attenuated-and-time-compressed-prime-is-immediately-preceded-and-followed-by-attenuated-time-compressed-and-time-reversed-masks-as-indicated-by-the-label-_ksam_-ie-the-word-_mask_-in-reverse-the-target-is-played-at-normal-speech-rate-and-is-not-attenuated-it-immediately-follows-the-prime-ie-its-onset-coincides-with-the-offset-of-the-prime-and-is-superimposed-on-the-rightward-mask-stream&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Schematic description of a typical trial in Kouider &amp;amp; Dupoux (2005)&amp;#39;s auditory masked priming paradigm. The attenuated and time-compressed prime is immediately preceded and followed by attenuated, time-compressed, and time-reversed masks (as indicated by the label _ksam_, i.e. the word &amp;#39;_mask_&amp;#39; in reverse). The target is played at normal speech rate and is not attenuated; it immediately follows the prime (i.e., its onset coincides with the offset of the prime) and is superimposed on the rightward mask stream.&#34; srcset=&#34;
+               /media/audMskPr_trial_hua5a477298e30fac8849d37ad700df132_56055_db04109d229b6091a8213cc636dc8d24.jpg 400w,
+               /media/audMskPr_trial_hua5a477298e30fac8849d37ad700df132_56055_d0f826acaf000396cf125de3c2328d3d.jpg 760w,
+               /media/audMskPr_trial_hua5a477298e30fac8849d37ad700df132_56055_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://robpetrosino.github.io/media/audMskPr_trial_hua5a477298e30fac8849d37ad700df132_56055_db04109d229b6091a8213cc636dc8d24.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Schematic description of a typical trial in Kouider &amp;amp; Dupoux (2005)&amp;rsquo;s auditory masked priming paradigm. The attenuated and time-compressed prime is immediately preceded and followed by attenuated, time-compressed, and time-reversed masks (as indicated by the label &lt;em&gt;ksam&lt;/em&gt;, i.e. the word &amp;lsquo;&lt;em&gt;mask&lt;/em&gt;&amp;rsquo; in reverse). The target is played at normal speech rate and is not attenuated; it immediately follows the prime (i.e., its onset coincides with the offset of the prime) and is superimposed on the rightward mask stream.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Participants usually report hearing a clear word (i.e., the target word sound) surrounded by unintelligible babble. As an illustrative example, play the audio file right below: the target word &lt;em&gt;SHARP&lt;/em&gt; is preceded by what looks like babble, in which an attenuated, time-compressed prime was imposed over a stream of attenuated, time-compressed and time-reversed words.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;audMskPr_example.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;While promising, the design described above however proved to suffer from a number of methodological issues, as preliminary tests have shown. The issues seem to be connected to the interplay between the time-compression rate and the phonological length of the prime stimuli, which have a substantial impact on the subliminal intelligibility of the prime &amp;ndash; and, ultimately, to priming elicitation. A full-length study is being conducted that explores the interdependence of compression duration, the linguistic/acoustic factors just mentioned, and priming effects, with the ultimate goal of defining the minimum compressed duration at which priming can be obtained.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Priming effects and prime time processing</title>
+      <link>https://robpetrosino.github.io/projects/primetime/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0100</pubDate>
+      <guid>https://robpetrosino.github.io/projects/primetime/</guid>
+      <description>&lt;p&gt;The current psycholinguistic literature on visual morphological decomposition makes a great use of the visual masked priming design. Generally speaking, the priming design consists of two stimuli being presented one after the other; the first stimulus is called &lt;em&gt;prime&lt;/em&gt;, the second is called &lt;em&gt;target&lt;/em&gt;. The experimental task always concerns the target stimulus, and it is typically a lexical decision task, in which subjects are asked to decide whether the target stimulus is an existing word by pressing a response button box. It has been shown that recognition of the target stimulus is faster when it is related to the prime stimulus to some degree: e.g., the target word &lt;em&gt;CAT&lt;/em&gt; is recognized as a word faster when it is preceded by a semantically related prime word like &lt;em&gt;kitten&lt;/em&gt; than when it is preceded by an unrelated prime word like &lt;em&gt;hand&lt;/em&gt;. Visual morphological decomposition is typically investigated by adopting a sub-type of the visual priming design: the &lt;em&gt;masked&lt;/em&gt; priming design (Forster &amp;amp; Davis 1984), in which &amp;lsquo;mask&amp;rsquo; (that is, a series of hashmarks, #######) is presented for about 500 ms before the prime stimulus, which is usually presented for 30-70 ms. At such a short duration, primes are not consciously recognizable to subjects. The advantage of the masked priming technique is two-fold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;it prevents facilitation effects due to strategic processes triggered by episodic memory; and&lt;/li&gt;
+&lt;li&gt;it elicits them before full lexical access of the prime word is complete.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The target immediately follows the prime and usually stays on the screen until the subject performs the task on the target (e.g., lexical decision). It is important to acknowledge, however, that the whole enterprise on visual morphological decomposition hinges on the assumption that the masked priming design ensures that the processing of prime stimulus &lt;em&gt;stops&lt;/em&gt; as soon as it is visually replaced by the target stimulus on the screen (&amp;lsquo;no-overlapping theory of priming&amp;rsquo;). This assumption is crucial to interpret the priming data as indicative of properties of the mechanism of early decomposition. On the other hand, an alternative theory of masked priming has been proposed, in which the analysis of the prime stimulus &lt;em&gt;do not&lt;/em&gt; stop at the presentation of the target; rather, it runs in parallel with the analysis of the target. In this sense, priming arise as a result of the analysis of &lt;em&gt;both&lt;/em&gt; prime and target stimuli (&amp;lsquo;overlapping theory of priming&amp;rsquo;; Forster et al. 2003). From this perspective, it follows that the masked priming response cannot be used to explore the mechanisms of early morphological decomposition and, more generally, on early stages of visual word processing. Teasing apart these two theories of priming is essential to validate the feasibility of priming as a probe for morphological decomposition.&lt;/p&gt;
+&lt;p&gt;One way to assess the contribution of the pre-target-onset prime processing onto the priming response is to implement a backward mask in the masked priming design. The idea is not new (Forster et al. 2003, Morris et al. 2007, Grainger et al. 2003, Holcomb &amp;amp; Grainger2006) and involves the use of a mask (i.e., #####, usually lasting around 20-30 ms) being sandwiched between the prime and the target stimuli (so the presentation of a typical prime-TARGET pair flows as follows: ##### (500 ms) → &lt;em&gt;fuss&lt;/em&gt; (30-40 ms) → ###### (20-30 ms) → &lt;em&gt;FUSS&lt;/em&gt;). The backward mask is meant to prevent processing of the prime stimulus from overlapping with processing of the target stimulus and therefore allow us to quantify the amount of processing of the prime occurring within the duration of prime presentation. This fact suggests that particular attention will be needed when choosing the duration of the backward mask.} The investigation will need to run a series of masked priming experiments across conditions with different relatedness dimensions (e.g., identity pairs: &lt;em&gt;fuss-FUSS&lt;/em&gt;; morphologically transparent and opaque related pairs: &lt;em&gt;boneless-BONE, belly-BELL&lt;/em&gt;; orthographically related pairs; &lt;em&gt;canvas-CAN&lt;/em&gt;), both with a constant backward mask (backward-mask condition) and without it (no-backward-mask condition). The no-overlapping theory of priming predicts the priming response to be the same for all conditions, regardless of the presence of the backward mask; for example, &lt;em&gt;boneless-BONE&lt;/em&gt; should therefore prime in both the no-backward-mask and the backward-mask conditions. The overlapping theory of priming, instead, predicts the priming response to be a function of the presence of the backward mask; for example, &lt;em&gt;boneless-BONE&lt;/em&gt; should prime in the no-backward-mask condition, but should not prime in the backward-mask condition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More than Islands of Regularity: An Investigation of the Sensitivity of Morphological Decomposition to Higher-level Linguistic Properties</title>
+      <link>https://robpetrosino.github.io/publication/dissertation/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://robpetrosino.github.io/publication/dissertation/</guid>
+      <description>&lt;p&gt;A wealth of psycholinguistic evidence has shown that words, before being visually recognized, decompose into smaller units which seem to correspond to morphemes (Rastle et al. 2000, Rastle et al. 2004). Such a procedure of &lt;em&gt;morphological decomposition&lt;/em&gt; seems to occur in words that are made of more than one morpheme, independently of whether they are semantically transparent (e.g., &lt;em&gt;driver&lt;/em&gt;, which means &amp;lsquo;someone who drives&amp;rsquo;) or not (e.g., &lt;em&gt;brother&lt;/em&gt;, which does not mean &amp;lsquo;someone who broths&amp;rsquo;). Decomposition, however, does not seem to occur in words that contain a root plus an additional, non-morphemic string (e.g., &lt;em&gt;brothel&lt;/em&gt;, where &lt;em&gt;el&lt;/em&gt; is not an English suffix). Current models of visual word processing assume the morpho-orthographic decomposition hypothesis, whereby decomposition obligatorily relies on &lt;em&gt;islands of regularity&lt;/em&gt; &amp;ndash; namely, statistical orthographic regularities across letter strings, so that a string such as &lt;em&gt;er&lt;/em&gt; is detected as a single morpho-orthographic unit, but &lt;em&gt;el&lt;/em&gt; is not (Rastle &amp;amp; Davis 2008). As such, decomposition is also argued to occur at early stages of word processing and &lt;em&gt;before&lt;/em&gt; contact with the lexicon &amp;mdash; namely, before semantic information is accessed, so that decomposition occurs regardless of semantic transparency. This dissertation builds on these findings and primarily elicits the visual masked priming response to test the sensitivity of decomposition to any of the following higher-level linguistic properties (in addition to islands of regularities): phono-orthographic syllabification (along with whole-word lexicality, though indirectly), whole-word frequency, phonological conditioning, and syntactic selectional restrictions. By doing so, this dissertation additionally provides insights regarding the unfolding of linguistic properties during visual word processing. The results reported here suggest that decomposition is affected by whole-word lexicality and whole-word frequency. Given that these two properties are generally considered to be accessed at late stages of processing, these findings seem to be arguing against current models. A model of early visual decomposition is proposed that is able to account for these findings without necessarily challenging the  morpho-orthographic decomposition hypothesis. In this model, decomposition accesses whole-word lexicality and frequency through a multi-step mechanism that first generates multiple possible morpho-orthographic decomposition patterns of the visual stimulus and then evaluates them in parallel in order to choose the optimal candidate for activation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

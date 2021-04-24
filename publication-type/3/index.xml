@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Roberto Petrosino</title>
+    <link>https://robpetrosino.github.io/publication-type/3/</link>
+      <atom:link href="https://robpetrosino.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} RP</copyright><lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://robpetrosino.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://robpetrosino.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Asymmetrical Mismatch Negativities to Socially-Marked Biological Sounds</title>
+      <link>https://robpetrosino.github.io/publication/mmns/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://robpetrosino.github.io/publication/mmns/</guid>
+      <description>&lt;p&gt;This study explores to what extent social cognition impacts early auditory processing. We measured the Mismatch Negativity (MMN) response to three non-linguistic biological sounds (flatulence, coughs and sniffs) that differ in terms of social markedness: flatulence is socially marked, while coughs and sniffs are not. We found that the MMN to the pairing flatulence/cough is larger when flatulence is the oddball than when cough is the oddball – an asymmetrical MMN. We found no evidence of an asymmetrical MMN for the pairing cough/sniff. Crucially, this pattern tracks the social-markedness properties of these stimuli, but does not track their physical properties. The MMN response has long been used for research in language and music; these results suggest that it may also be used for research in social cognition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theoretical linguistics | Roberto Petrosino</title>
+    <link>https://robpetrosino.github.io/tag/theoretical-linguistics/</link>
+      <atom:link href="https://robpetrosino.github.io/tag/theoretical-linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>theoretical linguistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} RP</copyright><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://robpetrosino.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>theoretical linguistics</title>
+      <link>https://robpetrosino.github.io/tag/theoretical-linguistics/</link>
+    </image>
+    
+    <item>
+      <title>Phonological underspecification</title>
+      <link>https://robpetrosino.github.io/projects/phono_underspecification/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://robpetrosino.github.io/projects/phono_underspecification/</guid>
+      <description>&lt;p&gt;Since at least the 1970s, much research in theoretical phonology has been devoted to determining how speech sounds are represented in the human mind.&lt;/p&gt;
+&lt;p&gt;Recently, Eulitz &amp;amp; Lahiri (2004) have demonstrated that EEG, and in particular the Mismatch Negativity (MMN) response, can be a powerful tool for investigating the featural specifications within the mental representations of speech sounds (Näätänen, 2001). Eulitz and Lahiri (2004) were the first to show that MMN amplitude is modulated by the amount of featural information stored in the long-term mental representation of speech sounds (asymmetrical MMNs; henceforth, aMMNs). Since that discovery, many studies have been carried out, that have systematically tested the aMMN response to speech sound across a wide variety of languages (a.o., Turkish: Lipski et al., 2007; English: Scharinger et al., 2012, 2016; Arabic, Russian: Schluter et al., 2017). At UConn, in collaboration with Jon Sprouse (UConn), Andrea Calabrese (UConn) and Diogo Almeida (NYUAD), I have begun to explore the foundations of the aMMN response, by asking to what extent it is language-specific, and to what extent it may be elicited in other complex cognitive domains. The ultimate goal of this line of research is to widen the set of cognitive (and, possibly, linguistically relevant) feature representations that we can investigate with the aMMN response.&lt;/p&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://robpetrosino.github.io/publication/mmns/&#34;&gt;first study&lt;/a&gt;, we elicited the MMN response to flatulence, which is assumed to be socially marked, and coughs and sniffs, which are both assumed to be socially unmarked. We chose these sounds for three reasons. First, they are relatively acoustically complex biological sounds, involving complex frequency spectra, similar to speech sounds. Second, social markedness is likely an abstract representation that must be learned, as it can vary across cultures, similar to the abstract representation of speech sounds, which can vary across languages. Finally, markedness is a theoretical primitive in linguistics (a.o., Jakobson &amp;amp; Halle, 1956; Chomsky &amp;amp; Halle, 1968; Kiparsky, 1982; Prince &amp;amp; Smolensky, 1993/2004; Calabrese, 2005), though it is relatively understudied in speech perception. Social markedness, though external to language, may therefore be abstractly similar to linguistic markedness. Therefore, the stimuli used arguably provided a minimal contrast with linguistic aMMNs, differing primarily in the domain of cognition. Our analyses showed that non-linguistic biological sounds trigger asymmetrical MMN responses in a way that tracks the social categorization of those sounds as socially-marked/unacceptable (such as flatulence) and socially-unmarked/acceptable (such as coughs and sniffs), but does not track the physical properties of the sounds (in which coughs and sniffs are most distinct, with flatulence in between). These results suggest that aMMNs may not be specific to language, and also that social cognition categories appear to impinge on early stages of auditory processing in the brain.&lt;/p&gt;
+&lt;p&gt;These findings open the door to several avenues of research spanning diverse branches of the cognitive sciences. For example, these findings may lead to follow-up studies exploring the extent to which linguistic aMMNs are modulated by other representational properties beyond featural specification – for example, phonological markedness and phonological contrastiveness.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Roberto Petrosino</title>
+    <link>https://robpetrosino.github.io/publication-type/7/</link>
+      <atom:link href="https://robpetrosino.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} RP</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://robpetrosino.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://robpetrosino.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>More than Islands of Regularity: An Investigation of the Sensitivity of Morphological Decomposition to Higher-level Linguistic Properties</title>
+      <link>https://robpetrosino.github.io/publication/dissertation/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://robpetrosino.github.io/publication/dissertation/</guid>
+      <description>&lt;p&gt;A wealth of psycholinguistic evidence has shown that words, before being visually recognized, decompose into smaller units which seem to correspond to morphemes (Rastle et al. 2000, Rastle et al. 2004). Such a procedure of &lt;em&gt;morphological decomposition&lt;/em&gt; seems to occur in words that are made of more than one morpheme, independently of whether they are semantically transparent (e.g., &lt;em&gt;driver&lt;/em&gt;, which means &amp;lsquo;someone who drives&amp;rsquo;) or not (e.g., &lt;em&gt;brother&lt;/em&gt;, which does not mean &amp;lsquo;someone who broths&amp;rsquo;). Decomposition, however, does not seem to occur in words that contain a root plus an additional, non-morphemic string (e.g., &lt;em&gt;brothel&lt;/em&gt;, where &lt;em&gt;el&lt;/em&gt; is not an English suffix). Current models of visual word processing assume the morpho-orthographic decomposition hypothesis, whereby decomposition obligatorily relies on &lt;em&gt;islands of regularity&lt;/em&gt; &amp;ndash; namely, statistical orthographic regularities across letter strings, so that a string such as &lt;em&gt;er&lt;/em&gt; is detected as a single morpho-orthographic unit, but &lt;em&gt;el&lt;/em&gt; is not (Rastle &amp;amp; Davis 2008). As such, decomposition is also argued to occur at early stages of word processing and &lt;em&gt;before&lt;/em&gt; contact with the lexicon &amp;mdash; namely, before semantic information is accessed, so that decomposition occurs regardless of semantic transparency. This dissertation builds on these findings and primarily elicits the visual masked priming response to test the sensitivity of decomposition to any of the following higher-level linguistic properties (in addition to islands of regularities): phono-orthographic syllabification (along with whole-word lexicality, though indirectly), whole-word frequency, phonological conditioning, and syntactic selectional restrictions. By doing so, this dissertation additionally provides insights regarding the unfolding of linguistic properties during visual word processing. The results reported here suggest that decomposition is affected by whole-word lexicality and whole-word frequency. Given that these two properties are generally considered to be accessed at late stages of processing, these findings seem to be arguing against current models. A model of early visual decomposition is proposed that is able to account for these findings without necessarily challenging the  morpho-orthographic decomposition hypothesis. In this model, decomposition accesses whole-word lexicality and frequency through a multi-step mechanism that first generates multiple possible morpho-orthographic decomposition patterns of the visual stimulus and then evaluates them in parallel in order to choose the optimal candidate for activation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Calabrese | Roberto Petrosino</title>
+    <link>https://robpetrosino.github.io/authors/andrea/</link>
+      <atom:link href="https://robpetrosino.github.io/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Calabrese</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} RP</copyright><lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://robpetrosino.github.io/authors/andrea/avatar_hu6d9d76c04d853ad22e2d66e4cfae0512_93816_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrea Calabrese</title>
+      <link>https://robpetrosino.github.io/authors/andrea/</link>
+    </image>
+    
+    <item>
+      <title>Phonological underspecification</title>
+      <link>https://robpetrosino.github.io/projects/phono_underspecification/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://robpetrosino.github.io/projects/phono_underspecification/</guid>
+      <description>&lt;p&gt;Since at least the 1970s, much research in theoretical phonology has been devoted to determining how speech sounds are represented in the human mind.&lt;/p&gt;
+&lt;p&gt;Recently, Eulitz &amp;amp; Lahiri (2004) have demonstrated that EEG, and in particular the Mismatch Negativity (MMN) response, can be a powerful tool for investigating the featural specifications within the mental representations of speech sounds (Näätänen, 2001). Eulitz and Lahiri (2004) were the first to show that MMN amplitude is modulated by the amount of featural information stored in the long-term mental representation of speech sounds (asymmetrical MMNs; henceforth, aMMNs). Since that discovery, many studies have been carried out, that have systematically tested the aMMN response to speech sound across a wide variety of languages (a.o., Turkish: Lipski et al., 2007; English: Scharinger et al., 2012, 2016; Arabic, Russian: Schluter et al., 2017). At UConn, in collaboration with Jon Sprouse (UConn), Andrea Calabrese (UConn) and Diogo Almeida (NYUAD), I have begun to explore the foundations of the aMMN response, by asking to what extent it is language-specific, and to what extent it may be elicited in other complex cognitive domains. The ultimate goal of this line of research is to widen the set of cognitive (and, possibly, linguistically relevant) feature representations that we can investigate with the aMMN response.&lt;/p&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://robpetrosino.github.io/publication/mmns/&#34;&gt;first study&lt;/a&gt;, we elicited the MMN response to flatulence, which is assumed to be socially marked, and coughs and sniffs, which are both assumed to be socially unmarked. We chose these sounds for three reasons. First, they are relatively acoustically complex biological sounds, involving complex frequency spectra, similar to speech sounds. Second, social markedness is likely an abstract representation that must be learned, as it can vary across cultures, similar to the abstract representation of speech sounds, which can vary across languages. Finally, markedness is a theoretical primitive in linguistics (a.o., Jakobson &amp;amp; Halle, 1956; Chomsky &amp;amp; Halle, 1968; Kiparsky, 1982; Prince &amp;amp; Smolensky, 1993/2004; Calabrese, 2005), though it is relatively understudied in speech perception. Social markedness, though external to language, may therefore be abstractly similar to linguistic markedness. Therefore, the stimuli used arguably provided a minimal contrast with linguistic aMMNs, differing primarily in the domain of cognition. Our analyses showed that non-linguistic biological sounds trigger asymmetrical MMN responses in a way that tracks the social categorization of those sounds as socially-marked/unacceptable (such as flatulence) and socially-unmarked/acceptable (such as coughs and sniffs), but does not track the physical properties of the sounds (in which coughs and sniffs are most distinct, with flatulence in between). These results suggest that aMMNs may not be specific to language, and also that social cognition categories appear to impinge on early stages of auditory processing in the brain.&lt;/p&gt;
+&lt;p&gt;These findings open the door to several avenues of research spanning diverse branches of the cognitive sciences. For example, these findings may lead to follow-up studies exploring the extent to which linguistic aMMNs are modulated by other representational properties beyond featural specification – for example, phonological markedness and phonological contrastiveness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Asymmetrical Mismatch Negativities to Socially-Marked Biological Sounds</title>
+      <link>https://robpetrosino.github.io/publication/mmns/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://robpetrosino.github.io/publication/mmns/</guid>
+      <description>&lt;p&gt;This study explores to what extent social cognition impacts early auditory processing. We measured the Mismatch Negativity (MMN) response to three non-linguistic biological sounds (flatulence, coughs and sniffs) that differ in terms of social markedness: flatulence is socially marked, while coughs and sniffs are not. We found that the MMN to the pairing flatulence/cough is larger when flatulence is the oddball than when cough is the oddball – an asymmetrical MMN. We found no evidence of an asymmetrical MMN for the pairing cough/sniff. Crucially, this pattern tracks the social-markedness properties of these stimuli, but does not track their physical properties. The MMN response has long been used for research in language and music; these results suggest that it may also be used for research in social cognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allomorphy: when, how, why</title>
+      <link>https://robpetrosino.github.io/projects/allomorphy/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0100</pubDate>
+      <guid>https://robpetrosino.github.io/projects/allomorphy/</guid>
+      <description>&lt;p&gt;In recent year, much effort in theoretical linguistics has devoted to defining the grammatical restrictions governing morphological alternations, in which the exponence of an element &lt;em&gt;x&lt;/em&gt; depends on the context in which &lt;em&gt;x&lt;/em&gt; occurs. While the context may be of different nature &amp;ndash; i.e., morpho-syntactic, phonological, and/or morpho-phonological &amp;ndash; my research focuses primarily on identifying the grammatical conditions triggering morpho-syntactically conditioned and morpho-phonologically conditions alternations.&lt;/p&gt;
+&lt;p&gt;In morpho-syntactically conditioned alternations, the context is purely morpho-syntactic. For example, the English alternation go/went is usually posited as morpho-syntactically-conditioned, as consisting of a suppletive alternation exclusively triggered by a specific morpho-syntactic trigger (in our example, past tense). One question that researchers have been interested in is whether there are locality constraints acting upon allomorphy and what the relevant constraints are (Embick 2010; Bobaljik 2012; Merchant 2015; Moskal 2015; Moskal &amp;amp; Smith 2016). A strong hypothesis defended in Embick (2010) claims that, the trigger and the target of allomorphy must be linearly adjacent to each other (Linear Adjacency Hypothesis; LAH). Merchant (2015) has however pointed out that Greek root-allomorphy presents a counterexample to LAH, and proposes that vocabulary items are rather sensitive to &lt;em&gt;spans&lt;/em&gt; (i.e., larger portions of morpho-syntactic structures; Span Adjacency Hypothesis, SAH). &lt;a href=&#34;https://robpetrosino.github.io/uploads/ChristopoulosPetrosino_GreekSpans_WCCFL.pdf&#34; target=&#34;_blank&#34;&gt;Christopoulos &amp;amp; Petrosino (2017)&lt;/a&gt; take issue with Merchant&amp;rsquo;s claim and propose a revisited analysis of Greek verbal morphology that seems to further support the LAH.&lt;/p&gt;
+&lt;p&gt;Morpho-phonologically conditioned alternations involve a phonological change triggered by morpho-syntactic and/or morpho-phonological trigger. Traditionally, these alternations are accounted for via application of morpho-phonological rules (i.e., the so-called readjustment rules). By the way of mixing phonological and morphological alphabets, these operations though make unfalsifiable predictions; as a consequence, a recent trend in the field has been to get rid of them as a whole (Bermùdez-Otero 2012, Haugen &amp;amp; Siddiqi 2013). In Petrosino (in prep.; available upon request), I discuss the morpho-phonologically conditioned allomorphy of the definite determiner in Neapolitan (southern Italian dialect) and argue for an account which is effortlessly able to explain the patterns as framed into language-wide generalizations governed by morpho-phonologically sensitive operations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
